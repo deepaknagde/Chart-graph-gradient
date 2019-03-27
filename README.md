@@ -1,1 +1,1 @@
-# Chart-graph-gredient
+# Chart-graph-gradient
